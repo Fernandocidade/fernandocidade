@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   #### [Portuguese]
 
 Olá! Meu nome é Fernando cidade , tenho 34 anos e sou de Rio de janeiro.
-Em 2015, tive a oportunidade de estagiar em uma empresa de Tecnologia iniciando com Suporte e Manutenção de Redes e no mesmo ano tive o meu primeiro contato com o Javascript e o Html-Css e PHP.
+Em 2015, tive a oportunidade de estagiar em uma empresa de Tecnologia iniciando com Suporte e Manutenção de Redes,  tive o meu primeiro contato com o  HTML5-CSS e Javascript
 
 No decorrer desta trajetória, tive a oportunidade de trabalhar com o Desenvolvimento no Visual Studio Code.
 
@@ -36,7 +36,7 @@ Gosto muito de desafios e novos frameworks e tenho incluído aqui neste reposit�
 
 Linguagens nas quais sou especialista: 
 HTML5-CSS, Javascript,PHP,Laravel (Docker containers), kotlen
-Node (Express / Nest.js), Angular (2.x) / AngularJs, VueJs.
+Node (Express / Nest.js), Angular.
 Habilidades DevOps e Certificado em MySQL Server
   
 </p>
