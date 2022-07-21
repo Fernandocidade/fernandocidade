@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
   #### [Portuguese]
 
-Olá! Meu nome é Fernando cidade , tenho 34 anos e sou de Rio de janeiro.
+Olá! Meu nome é Fernando cidade ,  sou natural do Rio de janeiro.
 Em 2015, tive a oportunidade de estagiar em uma empresa de Tecnologia iniciando com Suporte e Manutenção de Redes,  tive o meu primeiro contato com o  HTML5-CSS e Javascript
 
 No decorrer desta trajetória, tive a oportunidade de trabalhar com o Desenvolvimento no Visual Studio Code.
