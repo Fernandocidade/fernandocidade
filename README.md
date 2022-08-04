@@ -25,19 +25,21 @@ Here are some ideas to get you started:
 
 <p>
 
-  #### [Portuguese]
+  #### [ingles]
+  
+  Hi! My name is Fernando Cidade, I am from Rio de Janeiro.
+In 2015, I had the opportunity to intern in a technology company starting with Network Support and Maintenance, I had my first contact with HTML5-CSS and Javascript
 
-Olá! Meu nome é Fernando cidade ,  sou natural do Rio de janeiro.
-Em 2015, tive a oportunidade de estagiar em uma empresa de Tecnologia iniciando com Suporte e Manutenção de Redes,  tive o meu primeiro contato com o  HTML5-CSS e Javascript
+During this trajectory, I had the opportunity to work with Development in Visual Studio Code.
 
-No decorrer desta trajetória, tive a oportunidade de trabalhar com o Desenvolvimento no Visual Studio Code.
+I really like challenges and new frameworks and I've included here in this repository some examples of what I'm researching.
 
-Gosto muito de desafios e novos frameworks e tenho incluído aqui neste repositório alguns exemplos do que estou pesquisando.
-
-Linguagens nas quais sou especialista: 
-HTML5-CSS, Javascript,PHP,Laravel (Docker containers), kotlen
+Languages ​​I specialize in:
+HTML5-CSS, Javascript, PHP, Laravel (Docker containers), kotlen
 Node (Express / Nest.js), Angular.
-Habilidades DevOps e Certificado em MySQL Server
+DevOps Skills and Certificate in MySQL Server
+
+
   
 </p>
 
